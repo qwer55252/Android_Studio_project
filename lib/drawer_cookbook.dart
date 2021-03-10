@@ -51,7 +51,7 @@ class MyHomePage extends StatelessWidget {
                 },
               ),
               ListTile( // 메뉴의 칼럼2 타일
-                  title: Text('Item 2'),
+                  title: Text('Item 241'),
                   onTap: () {
                     // 앱의 상태를 업데이트
                   }
@@ -62,7 +62,6 @@ class MyHomePage extends StatelessWidget {
                     // 앱의 상태를 업데이트
                   }
               ),
-
             ],
 
           ),
