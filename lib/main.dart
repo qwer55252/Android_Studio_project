@@ -56,7 +56,7 @@ class MyHomePage extends StatelessWidget {
               }
             ),
             ListTile( // 메뉴의 칼럼2 타일
-                title: Text('Suck my Dick'),
+                title: Text('Suck my Dick!'),
                 onTap: () {
                   // 앱의 상태를 업데이트
                 }
